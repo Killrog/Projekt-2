@@ -1,2 +1,0 @@
-# DEA
-Project 1
